@@ -1,7 +1,7 @@
 ### 雄关漫道真如铁，而今迈步从头越 🔴
 
 <!--
-**wangsichen222/wangsichen222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**seanwang222/seanwang222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
